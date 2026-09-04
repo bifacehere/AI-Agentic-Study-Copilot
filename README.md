@@ -2,6 +2,8 @@
 
 An AI-powered study assistant that converts learning resources such as PDFs and YouTube lectures into structured study material like summaries, key concepts, and flashcards.
 
+code- https://colab.research.google.com/drive/14HG8GWPex8F0OB4TbFM2I-HBk8K7z60p?usp=sharing
+
 ## Overview
 
 While studying, I found myself spending a lot of time going through different resources and then manually creating notes for revision.
